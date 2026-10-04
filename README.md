@@ -53,7 +53,7 @@ Model/           User
 Profiles/        AutoMapper
 ```
 
-## Próximos passos (já listados no repo — bons para entrevista)
+## Próximos passos 
 
 - Refresh token
 - Paginação em `/User/all`
